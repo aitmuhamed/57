@@ -10,20 +10,24 @@ const navLinks = [
   },
   {
     display: "Бидний тухай",
-    url: "#",
+    url: "/about",
   },
 
   {
     display: "Меню",
-    url: "#",
+    url: "/menu",
   },
   {
     display: "Хоолны жор",
-    url: "#",
+    url: "/receipt",
+  },
+  {
+    display: "57 Playstation",
+    url: "/game",
   },
   {
     display: "Холбогдох",
-    url: "#",
+    url: "contact",
   },
 ];
 
